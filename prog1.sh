@@ -1,2 +1,3 @@
 #! /bash/sh
-#Test this file
+#Test this file 
+echo "Test"
